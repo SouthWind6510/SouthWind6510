@@ -7,7 +7,7 @@ Back-end developer
 * 🌍  I'm based in Shanghai.
 * ✉️  You can contact me at [z1113270382@gmail.com](mailto:z1113270382@gmail.com)
 * 🚀  I'm currently working on [ByteDance](http://www.bytedance.com/zh/)
-* ⚡  I love badminton very much and I am learning from the coach.
+* 🏸  I love badminton very much and I am learning from the coach.
 
 
 ### Socials
